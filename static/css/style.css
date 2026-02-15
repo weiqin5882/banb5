@@ -1,0 +1,4 @@
+body { background: #f8f9fb; }
+.card { border-radius: 12px; }
+.loss-row { background-color: #ffe3e3 !important; }
+#warnings .alert { margin-bottom: 6px; }
